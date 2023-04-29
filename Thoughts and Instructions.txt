@@ -1,9 +1,10 @@
 Usage Instructions
 
-1. Kindly just open the TechChallenge.html file on any browser
-2. Press any row under the catalogue table.
-3. For adding the promo code, just type the promo code below and press submit.
-4. Press clear if you want to clear the table.
+1. Press <> Code, then Download ZIP.
+2. Extract and kindly open the TechChallenge.html file on any web browser
+3. Press any row under the catalogue table.
+4. For adding the promo code, just type the promo code below and press submit.
+5. Press clear if you want to clear the table.
 
 5. In case prices need to be changed, there is an object called pricingRules in the Javascript, 
 where we can individually assign new prices.
