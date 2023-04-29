@@ -1,6 +1,6 @@
 Usage Instructions
 
-1. Press <> Code, then Download ZIP.
+1. Press '<> Code' button, then Download ZIP.
 2. Extract and kindly open the TechChallenge.html file on any web browser
 3. Press any row under the catalogue table.
 4. For adding the promo code, just type the promo code below and press submit.
