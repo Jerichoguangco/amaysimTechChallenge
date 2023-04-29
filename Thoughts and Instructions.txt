@@ -1,6 +1,6 @@
 Usage Instructions
 
-1. Kindly just open the html file on any browser
+1. Kindly just open the TechChallenge.html file on any browser
 2. Press any row under the catalogue table.
 3. For adding the promo code, just type the promo code below and press submit.
 4. Press clear if you want to clear the table.
@@ -30,5 +30,7 @@ however, due to perhaps my lack of knowledge, was unable to do it exactly this w
 3. I thought of making extra-steps like showing a checkout list, reduce cart items when pressing the cart, and a bunch of other interesting stuff. But I recalled amaysim's core value "simplicity", so I avoided going outside what was instructed and not do anything unnecessary. 
 
 4. I also thought of separating the javascript (JS) and simple CSS file from the html file (making it external), but since this test app doesn't require those JS and CSS files to be used on other projects, I decided to make it internal instead.  
+
+5. It was my first time using github, and was amazed on how useful it is. (I wonder why Mekeni didn't use this).
 
 5. I recalled Ms.Judy's advice, "Enjoy the test". Thanks Ms.Judy!
